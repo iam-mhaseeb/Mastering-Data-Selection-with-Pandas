@@ -13,7 +13,7 @@ Things reuired<br>
 
 ## Find it's video on Youtube
 
-* [Mastering Data Selection with Pandas]() - Video on explanation of this code on Youtube.
+* [Mastering Data Selection with Pandas](https://youtu.be/QNhfbAcuPW4) - Video on explanation of this code on Youtube.
 
 ## Contributing
 
